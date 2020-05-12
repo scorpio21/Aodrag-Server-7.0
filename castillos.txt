@@ -1,0 +1,16 @@
+[INIT]
+castillo4=NAM POWER
+date4=29/05/2018
+hora4=09:49:44 p.m.
+castillo2=NAM POWER
+date2=29/05/2018
+hora2=09:49:59 p.m.
+castillo1=NAM POWER
+date1=29/05/2018
+hora1=09:49:51 p.m.
+castillo3=NAM POWER
+date3=29/05/2018
+hora3=09:49:35 p.m.
+fortaleza=Bad Religion
+date5=12/10/2017
+hora5=9:29:17 PM

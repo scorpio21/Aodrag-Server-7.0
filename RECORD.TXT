@@ -1,0 +1,9 @@
+[INIT]
+NivCiu=115
+NNivCiu=AsemeTulla
+NivCrimi=115
+NNivCrimi=AsemeTulla
+Maxtorneo=127
+NMaxtorneo=Dimy
+Moro=47140182
+NMoro=Ganjah
